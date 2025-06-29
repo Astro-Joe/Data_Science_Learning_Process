@@ -18,7 +18,7 @@ Whether you're new to data science or brushing up on core skills, this collectio
 
 ---
 
-## 📂 Contents
+## 📂 Outline
 
 - **Intro to IPython.ipynb**  
   Learn how to leverage IPython for interactive computing, exploring documentation, and efficient workflow tips.
